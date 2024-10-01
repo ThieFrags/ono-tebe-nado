@@ -108,6 +108,7 @@
   font-size: 22px;
   text-transform: uppercase;
   background-color: transparent;
+  font-family: inherit;
 }
 
 .aligned-text {
